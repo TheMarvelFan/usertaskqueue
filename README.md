@@ -40,7 +40,7 @@ The Task Queue API is designed to handle task processing with specific rate limi
    Open a terminal and navigate to the unzipped project folder:
 
 ```bash
-cd path/to/unzipped/task-queue-api
+cd path/to/unzipped/usertaskqueue
 ```
 
 
