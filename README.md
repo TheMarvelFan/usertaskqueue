@@ -1,5 +1,3 @@
-I'll revise the documentation to include two sets of steps for setting up the project, along with instructions for running and testing the project using Postman.
-
 # Task Queue API Documentation
 
 ## Approach
@@ -86,7 +84,7 @@ npx ts-node app.ts
    Open a terminal and run:
 
 ```bash
-git clone 
+git clone [https://github.com/TheMarvelFan/usertaskqueue.git](https://github.com/TheMarvelFan/usertaskqueue.git)
 cd usertaskqueue
 ```
 
