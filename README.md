@@ -84,7 +84,7 @@ npx ts-node app.ts
    Open a terminal and run:
 
 ```bash
-git clone [https://github.com/TheMarvelFan/usertaskqueue.git](https://github.com/TheMarvelFan/usertaskqueue.git)
+git clone https://github.com/TheMarvelFan/usertaskqueue.git
 cd usertaskqueue
 ```
 
